@@ -1,0 +1,15 @@
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-text{
+    color: #475B63
+}
+.caption-text{
+    color: #727F86;
+}
+.thoughts-text{
+    color: #9DA2A9;
+}

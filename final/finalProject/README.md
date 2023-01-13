@@ -7,11 +7,7 @@
 
 ## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/abdulaziz-m5u/laravel-quiz-app.git project-name
-```
 
 Go to the project directory
 
